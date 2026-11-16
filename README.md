@@ -18,7 +18,8 @@ This repository contains my Python learning journey.
 ## Goal
 
 To build a strong foundation in Python for
-Computer Science, AI and Machine Learning.
+Computer Science, AI 
+.
 
 ## Student
 
